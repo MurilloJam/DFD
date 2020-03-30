@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+'Solucion de una ecuacion cuadratica empleando la formula general'
+4
+1
+24
+'Ingresa el valor de a:'
+5
+1
+1
+a
+4
+1
+24
+'Ingresa el valor de b:'
+5
+1
+1
+b
+4
+1
+24
+'Ingresa el valor de c:'
+5
+1
+1
+c
+6
+1
+7
+radical
+15
+(b*b) - (4*a*c)
+7
+0
+1
+11
+radical < 0
+6
+1
+2
+x1
+36
+( (-1*b) + sqrt(radical) ) / (2 * a)
+6
+1
+2
+x2
+33
+ ((-1*b) - sqrt(radical)) / (2*a)
+4
+1
+17
+'Las raices son:'
+4
+1
+11
+'x1: ', x1 
+4
+1
+10
+'x2: ', x2
+13
+4
+1
+36
+'La ecuacion tiene raices negativas'
+13
+1
