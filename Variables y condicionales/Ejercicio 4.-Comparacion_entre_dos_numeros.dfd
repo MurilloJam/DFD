@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Comparacion entre dos numeros'
+4
+1
+27
+'Ingresa el primer numero:'
+5
+1
+4
+num1
+4
+1
+28
+'Ingresa el segundo numero:'
+5
+1
+4
+num2
+7
+0
+1
+11
+num1 = num2
+4
+1
+28
+'Los numeros son diferentes'
+13
+4
+1
+25
+'Los numeros son iguales'
+13
+1
