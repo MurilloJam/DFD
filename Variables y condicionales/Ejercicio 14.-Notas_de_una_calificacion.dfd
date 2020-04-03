@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Lectura de notas'
+6
+1
+4
+nota
+2
+-1
+9
+1
+21
+nota < 0 OR nota > 10
+4
+1
+35
+'Ingresa tu calificacion obtenida:'
+5
+1
+4
+nota
+11
+7
+0
+1
+9
+nota >= 9
+7
+0
+1
+9
+nota >= 7
+4
+1
+14
+'Insuficiente'
+13
+4
+1
+12
+'Suficiente'
+13
+13
+4
+1
+6
+'Bien'
+13
+1
