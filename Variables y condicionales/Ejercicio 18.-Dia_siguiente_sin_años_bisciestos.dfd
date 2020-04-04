@@ -1,0 +1,239 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'Confirmacion de una fecha sin años bisciestos'
+6
+3
+7
+min_mes
+1
+1
+7
+max_mes
+2
+12
+5
+error
+1
+1
+4
+1
+17
+'Ingresa el año:'
+5
+1
+3
+año
+4
+1
+17
+'Ingresa el mes:'
+5
+1
+3
+mes
+7
+0
+1
+34
+(mes < min_mes) OR (mes > max_mes)
+4
+1
+17
+'Ingresa el dia:'
+5
+1
+3
+dia
+6
+1
+7
+sig_dia
+5
+dia+1
+7
+0
+1
+7
+mes = 2
+7
+0
+1
+49
+(mes = 4) OR (mes = 6) OR (mes = 8) OR (mes = 11)
+7
+0
+1
+24
+(dia > 0) AND (dia < 32)
+4
+1
+44
+'El dia ingresado es un valor es incorrecto'
+13
+4
+1
+53
+'La fecha introducida es:' , dia, '/', mes, '/', año 
+7
+0
+1
+12
+sig_dia > 31
+13
+6
+2
+7
+sig_dia
+1
+1
+3
+mes
+5
+mes+1
+7
+0
+1
+8
+mes > 12
+13
+6
+2
+3
+año
+5
+año+1
+3
+mes
+1
+1
+13
+13
+4
+1
+55
+'La fecha siguiente es:' , sig_dia, '/', mes, '/', año 
+13
+13
+7
+0
+1
+24
+(dia > 0) AND (dia < 31)
+4
+1
+44
+'El dia ingresado es un valor es incorrecto'
+13
+4
+1
+53
+'La fecha introducida es:' , dia, '/', mes, '/', año 
+7
+0
+1
+12
+sig_dia > 30
+13
+6
+2
+7
+sig_dia
+1
+1
+3
+mes
+5
+mes+1
+7
+0
+1
+8
+mes > 12
+13
+6
+2
+3
+año
+5
+año+1
+3
+mes
+1
+1
+13
+13
+4
+1
+55
+'La fecha siguiente es:' , sig_dia, '/', mes, '/', año 
+13
+13
+13
+7
+0
+1
+25
+(dia > 0)  AND (dia < 29)
+4
+1
+44
+'El dia ingresado es un valor es incorrecto'
+13
+4
+1
+53
+'La fecha introducida es:' , dia, '/', mes, '/', año 
+7
+0
+1
+12
+sig_dia > 28
+13
+6
+2
+7
+sig_dia
+1
+1
+3
+mes
+5
+mes+1
+7
+0
+1
+8
+mes > 12
+13
+6
+2
+3
+año
+5
+año+1
+3
+mes
+1
+1
+13
+13
+4
+1
+55
+'La fecha siguiente es:' , sig_dia, '/', mes, '/', año 
+13
+13
+13
+4
+1
+44
+'El mes ingresado es un valor es incorrecto'
+13
+1
