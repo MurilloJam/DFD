@@ -1,0 +1,129 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'Siguiente hora'
+4
+1
+17
+'Ingresa la hora'
+5
+1
+4
+hora
+7
+0
+1
+21
+hora < 0 OR hora > 23
+4
+1
+19
+'Ingresa el minuto'
+5
+1
+6
+minuto
+7
+0
+1
+25
+minuto < 0 OR minuto > 59
+4
+1
+20
+'Ingresa el segundo'
+5
+1
+7
+segundo
+7
+0
+1
+27
+segundo < 0 OR segundo > 59
+6
+1
+7
+segundo
+9
+segundo+1
+7
+0
+1
+12
+segundo = 60
+4
+1
+67
+'La hora en el siguiente segundo es :', hora,':',minuto,':',segundo
+13
+6
+2
+6
+minuto
+8
+minuto+1
+7
+segundo
+1
+0
+7
+0
+1
+11
+minuto = 60
+13
+6
+2
+4
+hora
+6
+hora+1
+6
+minuto
+1
+0
+7
+0
+1
+9
+hora = 24
+13
+6
+1
+5
+hora 
+1
+0
+13
+13
+4
+1
+67
+'La hora en el siguiente segundo es :', hora,':',minuto,':',segundo
+13
+13
+4
+1
+18
+'Segundo invalido'
+13
+13
+4
+1
+17
+'Minuto invalido'
+13
+13
+4
+1
+15
+'Hora invalida'
+13
+1
