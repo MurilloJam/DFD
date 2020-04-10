@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'Multiplo de un numero'
+4
+1
+33
+'Ingresa el numero a considerar:'
+5
+1
+6
+numero
+4
+1
+75
+'Ingresa el numero a comprobar si es multiplo del anteriormente ingresado:'
+5
+1
+8
+multiplo
+6
+1
+8
+solucion
+19
+multiplo MOD numero
+7
+0
+1
+12
+solucion = 0
+4
+1
+16
+'No es multiplo'
+13
+4
+1
+16
+'Si es multiplo'
+13
+1

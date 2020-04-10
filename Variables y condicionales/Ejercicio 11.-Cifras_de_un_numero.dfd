@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'Cifras de un numero'
+6
+1
+6
+numero
+2
+-1
+9
+1
+27
+numero < 0 OR numero > 9999
+4
+1
+35
+'Ingresa un numero entre 0 y 9999:'
+5
+1
+6
+numero
+11
+7
+0
+1
+12
+numero >= 10
+4
+1
+27
+'El numero tiene una cifra'
+13
+7
+0
+1
+13
+numero >= 100
+4
+1
+26
+'El numero tiene 2 cifras'
+13
+7
+0
+1
+14
+numero >= 1000
+4
+1
+26
+'El numero tiene 3 cifras'
+13
+4
+1
+26
+'El numero tiene 4 cifras'
+13
+13
+13
+1
