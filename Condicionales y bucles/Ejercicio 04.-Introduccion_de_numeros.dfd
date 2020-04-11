@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Introduccion de numeros'
+6
+2
+8
+contador
+1
+0
+6
+numero
+1
+0
+9
+1
+11
+numero >= 0
+4
+1
+19
+'Ingrese un numero'
+5
+1
+6
+numero
+6
+1
+8
+contador
+12
+contador + 1
+11
+4
+1
+43
+'Se introdujeron ', (contador-1),' numeros'
+1
