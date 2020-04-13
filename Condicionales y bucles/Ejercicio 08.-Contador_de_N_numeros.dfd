@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Numeros del 1 al N'
+6
+1
+4
+cont
+1
+0
+4
+1
+32
+'Hasta que numero desea contar?'
+5
+1
+6
+numero
+9
+1
+13
+cont < numero
+6
+1
+4
+cont
+8
+cont + 1
+4
+1
+4
+cont
+11
+1
