@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Suma de 15 numeros'
+6
+2
+4
+acum
+1
+0
+4
+cont
+1
+0
+9
+1
+9
+cont < 15
+4
+1
+19
+'Ingresa el numero'
+5
+1
+3
+num
+6
+2
+4
+acum
+10
+acum + num
+4
+cont
+8
+cont + 1
+11
+4
+1
+21
+'La suma es: ' , acum
+1
