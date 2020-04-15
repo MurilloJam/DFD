@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+15
+'Sueldo maximo'
+6
+2
+10
+sueldo_max
+1
+0
+9
+empleados
+1
+0
+4
+1
+34
+'Ingresa la cantidad de empleados'
+5
+1
+9
+empleados
+9
+1
+13
+empleados > 0
+4
+1
+19
+'Ingresa el sueldo'
+5
+1
+6
+sueldo
+7
+0
+1
+19
+sueldo > sueldo_max
+13
+6
+1
+10
+sueldo_max
+6
+sueldo
+13
+6
+1
+9
+empleados
+13
+empleados - 1
+11
+4
+1
+35
+'El sueldo maximo es: ', sueldo_max
+1

@@ -1,0 +1,98 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Aprobados, condicionados y suspensos'
+6
+3
+9
+aprobados
+1
+0
+13
+condicionados
+1
+0
+9
+suspensos
+1
+0
+6
+2
+11
+calificados
+1
+6
+4
+nota
+1
+0
+9
+1
+15
+calificados > 0
+4
+1
+27
+'Ingresa la nota obtenida:'
+5
+1
+4
+nota
+7
+0
+1
+9
+nota >= 7
+7
+0
+1
+8
+nota = 4
+6
+1
+9
+suspensos
+13
+suspensos + 1
+13
+6
+1
+13
+condicionados
+17
+condicionados + 1
+13
+13
+6
+1
+9
+aprobados
+13
+aprobados + 1
+13
+6
+1
+11
+calificados
+15
+calificados - 1
+11
+4
+1
+39
+'La cantidad de aprobados: ', aprobados
+4
+1
+39
+'La cantidad de suspensos: ', suspensos
+4
+1
+47
+'La cantidad de condicionados: ', condicionados
+1

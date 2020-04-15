@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+11
+'Suspensos'
+6
+2
+9
+suspensos
+1
+0
+7
+alumnos
+1
+5
+9
+1
+11
+alumnos > 0
+4
+1
+15
+'Ingresa nota:'
+5
+1
+4
+nota
+7
+0
+1
+8
+nota < 7
+13
+6
+1
+9
+suspensos
+13
+suspensos + 1
+13
+6
+1
+7
+alumnos
+11
+alumnos - 1
+11
+7
+0
+1
+14
+suspensos != 0
+4
+1
+19
+'No hubo suspensos'
+13
+4
+1
+19
+'Si hubo suspensos'
+13
+1

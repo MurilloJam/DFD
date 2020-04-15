@@ -1,0 +1,112 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Promedio de edades y estatura'
+6
+3
+9
+prom_edad
+1
+0
+13
+prom_estatura
+1
+0
+8
+cantidad
+1
+5
+6
+2
+10
+mayor_edad
+1
+0
+8
+muy_alto
+1
+0
+9
+1
+12
+cantidad > 0
+4
+1
+14
+'Ingrese edad'
+5
+1
+4
+edad
+4
+1
+33
+'Ingrese estatura en centimetros'
+5
+1
+8
+estatura
+7
+0
+1
+9
+edad > 18
+13
+6
+1
+10
+mayor_edad
+14
+mayor_edad + 1
+13
+7
+0
+1
+14
+estatura > 175
+13
+6
+1
+8
+muy_alto
+12
+muy_alto + 1
+13
+6
+3
+9
+prom_edad
+16
+prom_edad + edad
+13
+prom_estatura
+24
+prom_estatura + estatura
+8
+cantidad
+12
+cantidad - 1
+11
+4
+1
+41
+'El promedio de edades: ' , prom_edad / 5
+4
+1
+46
+'El promedio de alturas: ' , prom_estatura / 5
+4
+1
+42
+'Personas mayores a 18 años: ', mayor_edad
+4
+1
+40
+'Personas mayores  a 175 cm: ', muy_alto
+1

@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Adivina el numero'
+6
+2
+1
+N
+2
+52
+6
+numero
+1
+0
+9
+1
+11
+numero != N
+4
+1
+19
+'Ingresa el numero'
+5
+1
+6
+numero
+7
+0
+1
+10
+numero = N
+7
+0
+1
+10
+numero > N
+4
+1
+32
+'El numero a encontrar es mayor'
+13
+4
+1
+32
+'El numero a encontrar es menor'
+13
+13
+4
+1
+27
+'Has encontrado el  numero'
+13
+11
+1
