@@ -1,0 +1,125 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'Numero capicua'
+6
+3
+1
+u
+1
+0
+1
+d
+1
+0
+1
+c
+1
+0
+6
+3
+2
+um
+1
+0
+2
+dm
+1
+0
+6
+numero
+2
+-1
+9
+1
+28
+numero < 0 OR numero > 99999
+4
+1
+36
+'Ingresa un numero entre 0 y 99 999'
+5
+1
+6
+numero
+6
+1
+7
+ingreso
+6
+numero
+11
+6
+3
+1
+u
+13
+numero MOD 10
+6
+numero
+15
+(numero-u) / 10
+1
+d
+13
+numero MOD 10
+6
+3
+6
+numero
+15
+(numero-d) / 10
+1
+c
+13
+numero MOD 10
+6
+numero
+15
+(numero-c) / 10
+6
+3
+2
+um
+13
+numero MOD 10
+6
+numero
+16
+(numero-um) / 10
+2
+dm
+6
+numero
+6
+1
+7
+capicua
+29
+u*10000+d*1000+c*100+um*10+dm
+4
+1
+7
+capicua
+7
+0
+1
+17
+ingreso = capicua
+4
+1
+25
+'El numero no es capicua'
+13
+4
+1
+25
+'El numero si es capicua'
+13
+1
